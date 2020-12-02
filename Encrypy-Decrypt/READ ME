@@ -1,1 +1,3 @@
-Objec
+Objective: Write an assembly language program to implement the specified encryption/decryption algorithm.
+Your program reads in a message file to encrypt/decrypt, a key file, a user-entered password, and optionally, the
+number of rounds and/or an output file name: (order is irrelevant). 
